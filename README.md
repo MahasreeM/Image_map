@@ -206,17 +206,17 @@ poorvika believes in the power of teamwork and cooperation, in thinking  big tog
 ```
 
 # OUTPUT
-![screen1](https://github.com/user-attachments/assets/40660a7f-60de-401a-84aa-15dfe530ff52)
+![web](https://github.com/user-attachments/assets/ed83cf96-8a62-444f-bd93-d1f962b5734e)
 
-![screen2](https://github.com/user-attachments/assets/de31ff1e-b283-4264-9e52-34d6b390ed59)
+![Screenshot (73)](https://github.com/user-attachments/assets/b663f277-58bd-4f77-8a70-d4394797ffe4)
 
-![screen3](https://github.com/user-attachments/assets/f4b76bdd-8134-4a1d-81e0-444da822e5ca)
+![Screenshot (72)](https://github.com/user-attachments/assets/40297652-ea98-408e-8025-78ebaeb69bdf)
 
-![screen4](https://github.com/user-attachments/assets/85e1baa8-9d6e-4525-ad1b-3116cabde215)
+![Screenshot (71)](https://github.com/user-attachments/assets/150d492e-39d0-41d7-b085-d0e2b50b8ff7)
 
-![screen5](https://github.com/user-attachments/assets/b760ae5e-97b1-48e5-9f52-c8c8fb48dbc3)
+![Screenshot (70)](https://github.com/user-attachments/assets/f90986f3-7c09-43c7-933b-72c63fdbca58)
 
-![screen6](https://github.com/user-attachments/assets/d8184468-201b-4aab-b192-938bcc937860)
+![Screenshot (69)](https://github.com/user-attachments/assets/c7556263-6100-400d-bbf9-7edc46182a55)
 
 
 # RESULT
